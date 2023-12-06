@@ -2,6 +2,7 @@ import { useState } from "react"
 import {Link} from "react-scroll"
 import { CloseIcon, HamburgerIcon,Icon } from '@chakra-ui/icons'
 import Resume from "../components/Resume"
+import React from "react"
 import Hasan from "../Media/Hasan.pdf"
 
 const Navbar = ()=>{

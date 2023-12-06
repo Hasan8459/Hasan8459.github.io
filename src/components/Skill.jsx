@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCss3, faGithub, faHtml5, faJs, faNode, faReact } from "@fortawesome/free-brands-svg-icons"
-import {React} from 'react'
-
+//import {React} from 'react'
+import React from 'react'
 
 export const Skill = () => {
   return (
